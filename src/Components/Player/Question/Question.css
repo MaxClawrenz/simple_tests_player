@@ -1,0 +1,30 @@
+.Question {
+    display: flex;
+    justify-content: flex-start;
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+.Question-answers{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 8px;
+}
+.Question-submit{
+display: flex;
+}
+.Question-submit-button{
+    background-color: #b92a35;
+    color: #fff;
+    border-radius: 8px;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    cursor: pointer;
+    border: unset;
+    transition: 0.25s;
+}
+.Question-submit-button:hover{
+    background-color: #e1e1e1;
+    color: #b92a35;
+}

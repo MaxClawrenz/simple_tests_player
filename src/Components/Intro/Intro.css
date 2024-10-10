@@ -1,0 +1,19 @@
+.Intro-text, .Intro-subtext{
+    margin-bottom: 12px;
+}
+
+.Intro-submit{
+    background-color: #b92a35;
+    color: #fff;
+    border-radius: 8px;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    cursor: pointer;
+    border: unset;
+    transition: 0.25s;
+}
+.Intro-submit:hover{
+    background-color: #e1e1e1;
+    color: #b92a35;
+}

@@ -1,0 +1,13 @@
+.ProgressPoint{
+    flex: 1;
+    padding: 10px;
+}
+.active{
+    background-color: #b92a35;
+}
+.unanswered{
+    background-color: #e1e1e1;
+}
+.completed{
+    background-color: #000;
+}

@@ -1,0 +1,32 @@
+.Header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 8px;
+}
+.Header-name {
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 8px;
+}
+.Header-timer {
+    border: 1px solid #000;
+    padding: 0 8px;
+    border-radius: 4px;
+}
+.pulsing-colon {
+    animation: pulse 1s infinite;
+  }
+  
+  @keyframes pulse {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
