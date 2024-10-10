@@ -3,5 +3,5 @@
 Стэк: React, TypeScript, MobX
 
 
-<img width="432" alt="image" src="https://github.com/user-attachments/assets/e55bfe21-1908-4d9d-ba21-f72a411f12cc">
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/e55bfe21-1908-4d9d-ba21-f72a411f12cc">
 
